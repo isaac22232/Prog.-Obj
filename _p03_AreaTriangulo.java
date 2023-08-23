@@ -1,0 +1,21 @@
+// Calcula el area de un triangulo
+
+import java.util.Scanner;
+
+public class _p03_AreaTriangulo {
+    public static void main(String[] args) {
+        int base, altura;
+        double area;
+
+        System.out.print("Dame la base?");
+        Scanner obj = new Scanner(System.in);
+        base = obj.nextInt();
+        System.out.print("Dame la altura?");
+        altura = obj.nextInt();
+
+        area = base * altura / 2;
+        System.out.println( String.format("El triangulo de base %d y altura %d tiene un area de %.2f", base, altura,area) );
+        
+
+    }
+}
