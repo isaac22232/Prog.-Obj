@@ -28,3 +28,10 @@
 - _p17_TrabajandoFlotantes
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracters
+
+## Actividad 5
+- _p20_ConversionTipos
+- _p21_VerificaNumero
+- _p22_VerificaSuma
+- _p23_ConvertirSuma
+- _p24_PagaTrabajadorv2
