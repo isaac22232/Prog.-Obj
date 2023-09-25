@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrimerExamenParcial {
+public class _p80_PrimerExamenParcial {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
