@@ -117,3 +117,10 @@
 
 ## Examen parcial 1
 - _p80_PrimerExamenParcial
+
+## Actividad 14
+- _p81_InicializaArregloNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_LeerArregloCalificaciones
+- _p85_NombresEdades
