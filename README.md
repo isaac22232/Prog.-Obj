@@ -154,8 +154,8 @@
 - _p103_ClienteFactura
 
 ## Practica 8
-- _p104_PuntoCirculo
-- _p105_PuntoTriangulo
+- _p104_PuntoCirculo 
+- _p105_PuntoTriangulo 
 
 ## Actividad 17
 - _p106_Persona
