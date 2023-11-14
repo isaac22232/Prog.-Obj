@@ -8,7 +8,7 @@ public class _p139_HolaMundoGUI extends JFrame {
 
     public _p139_HolaMundoGUI(){
         setLayout(null);
-        lblSaludo = new JLabel("Hola Mundo GUI, Bienvenido");
+        lblSaludo = new JLabel("Hola Mundo GUI, Bienvenidos");
         lblSaludo.setFont(new Font("Arial", Font.BOLD,20));
         lblSaludo.setBounds(10,20,300,30);
         add(lblSaludo);
@@ -22,3 +22,5 @@ public class _p139_HolaMundoGUI extends JFrame {
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 }
+
+

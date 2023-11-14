@@ -19,7 +19,7 @@ public class _p140_AreaTrianguloGUI extends JFrame implements ActionListener {
         lblAltura = new JLabel("Altura : "); lblAltura.setBounds(10,50,200,30);add(lblAltura);
         txtBase = new JTextField(); txtBase.setBounds(80,20,200,30);add(txtBase);
         TxtAltura = new JTextField(); TxtAltura.setBounds(80,50,200,30);add(TxtAltura);
-        lblResultado = new JLabel("[Resultado aqui] "); lblResultado.setBounds(90,80,200,30);add(lblResultado);
+        lblResultado = new JLabel("[Resultados aqui] "); lblResultado.setBounds(90,80,200,30);add(lblResultado);
         btnCalcular = new JButton("Calcular");btnCalcular.setBounds(30,110,100,40); add(btnCalcular);
         btnSalir = new JButton("Salr");btnSalir.setBounds(150,110,100,40); add(btnSalir);
         btnSalir.addActionListener(this);
