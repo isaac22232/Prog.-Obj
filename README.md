@@ -221,3 +221,18 @@
 - _p140_HolaMundoGUI
 - _p141_AreaTrianguloGUI
 - _p142_LeyDeNewtonGUI
+
+## Practica 14
+- _p143_PagaTrabjador
+- _p144_Temperaturas
+
+## Actividad 25
+- _p145_EstudianteGUI_V1
+
+
+## Actividad 26
+- _p146_EstudianteGUI_V2
+
+
+## Tercer parcial
+- _p147_TercerExamenParcial
